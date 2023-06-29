@@ -1,4 +1,4 @@
-# RL_Tricked_Vehicle
+# RL_Tracked_Vehicle
 Another implementation of grid mouse, but a much bulkier one.
 # File description
 Grad_Maze: Codes used to train the model;        
